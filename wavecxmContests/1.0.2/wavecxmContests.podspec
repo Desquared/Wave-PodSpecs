@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name = 'wavecxmContests'
-  spec.version = '1.0.0'
+  spec.version = '1.0.2'
   spec.homepage = 'https://www.cocoapods.org'
-  spec.source = { :http => "https://wave-contests-ios.s3.eu-central-1.amazonaws.com/1.0.0/wavecxmContests.xcframework.zip" }
+  spec.source = { :http => "https://wave-contests-ios.s3.eu-central-1.amazonaws.com/1.0.2/wavecxmContests.xcframework.zip" }
   spec.authors = 'Paris Tsiogas'
   spec.summary = 'WaveCXM Contests SDK'
   spec.vendored_frameworks = ['wavecxmContests.xcframework']
